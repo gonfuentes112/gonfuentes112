@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Gonzalo
 
+[🇬🇧 English](#english) · [🇯🇵 日本語](#日本語)
+
 ## English
 
 **Software Developer**
